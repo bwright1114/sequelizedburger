@@ -1,0 +1,27 @@
+{
+  "name": "sequelizedburger",
+  "version": "1.0.0",
+  "description": "sequelize version of burger app",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "mysql": "^2.13.0",
+    "sequelize": "^3.30.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bwright1114/sequelizedburger.git"
+  },
+  "author": "bwright1114",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bwright1114/sequelizedburger/issues"
+  },
+  "homepage": "https://github.com/bwright1114/sequelizedburger#readme"
+}
